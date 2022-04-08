@@ -20,7 +20,7 @@ const Services = () =>{
          <div className = "flex w-full justify-between items-center gradient-bg-services">
              <div className = "flex md:flex-row flex-col items-center justify-between md:p-20 py-12 px-4">
                 <div className="flex-1 flex flex-col justify-start items-start">
-                    <h1 className="text-white text-3xl sm:text-5xl py-2 text-gradient">Easy to use and intuitive
+                    <h1 className="text-white text-3xl sm:text-5xl py-2  ">Easy to use and intuitive
                         
                     </h1>
                 </div>
